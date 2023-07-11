@@ -51,5 +51,4 @@ Currently, I am working towards my [DPhil in Statistics](https://www.stats.ox.ac
 						</div>
 					</div>
 				</section>
-
 			<!-- Three -->
